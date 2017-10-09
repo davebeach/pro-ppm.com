@@ -1,0 +1,13 @@
+name: 'Localization Client Tester'
+description: 'Localization client tester.'
+type: module
+core: 8.x
+dependencies:
+  - l10n_client_contributor
+package: Multilingual
+hidden: true
+
+# Information added by drush on 2017-01-28
+version: '8.x-1.0-alpha1+14-dev'
+project: 'l10n_client'
+datestamp: 1485595171

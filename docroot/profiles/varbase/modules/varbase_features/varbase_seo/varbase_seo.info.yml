@@ -1,0 +1,37 @@
+name: 'Varbase SEO'
+description: 'Provide SEO Core features and settings.'
+type: module
+dependencies:
+  - field
+  - google_analytics
+  - metatag
+  - metatag_facebook
+  - metatag_google_plus
+  - metatag_hreflang
+  - metatag_mobile
+  - metatag_open_graph
+  - metatag_twitter_cards
+  - metatag_verification
+  - schema_metatag
+  - schema_web_site
+  - schema_web_page
+  - schema_article
+  - schema_item_list
+  - node
+  - pathauto
+  - rdf
+  - redirect
+  - redirect_404
+  - simple_sitemap
+  - user
+  - yoast_seo
+package: Varbase
+# version: 8.x-4.10
+# core: 8.x
+# project: varbase
+
+# Information added by Drupal.org packaging script on 2017-10-08
+version: '8.x-4.10'
+core: '8.x'
+project: 'varbase'
+datestamp: 1507495855

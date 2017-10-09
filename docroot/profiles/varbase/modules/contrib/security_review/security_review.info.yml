@@ -1,0 +1,11 @@
+name: Security Review
+type: module
+description: 'Site security and configuration review module.'
+package: Security
+core: 8.x
+configure: security_review.settings
+
+# Information added by drush on 2016-10-20
+version: '8.x-1.x-dev'
+project: 'security_review'
+datestamp: 1476978228

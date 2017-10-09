@@ -1,0 +1,14 @@
+name: 'Localization Client Contributor'
+description: 'Contribute directly to the community from the convenience of your site.'
+type: module
+core: 8.x
+configure: locale.settings
+dependencies:
+  - xmlrpc
+  - locale
+package: Multilingual
+
+# Information added by drush on 2017-01-28
+version: '8.x-1.0-alpha1+14-dev'
+project: 'l10n_client'
+datestamp: 1485595171

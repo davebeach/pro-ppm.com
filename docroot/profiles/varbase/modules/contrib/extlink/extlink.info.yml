@@ -1,0 +1,11 @@
+name: External Links
+type: module
+description: Modify behavior and appearance of external links.
+package: User interface
+core: 8.x
+configure: extlink_admin.settings
+
+# Information added by drush on 2017-07-31
+version: '8.x-1.0+4-dev'
+project: 'extlink'
+datestamp: 1501536602

@@ -1,0 +1,13 @@
+name: Image resize filter
+type: module
+description: Resizes images based on width and height attributes and optionally link to the original image
+core: 8.x
+package: Filters
+configure: filter.admin_overview
+dependencies:
+  - filter
+
+# Information added by drush on 2016-10-19
+version: '8.x-1.x-dev'
+project: 'image_resize_filter'
+datestamp: 1476882882

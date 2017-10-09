@@ -1,0 +1,40 @@
+general-styling:
+  css:
+    component:
+      css/varbase_hero_slider_media.style.css:
+        minified: true
+  dependencies:
+    - core/drupal
+    - core/drupalSettings
+    - core/jquery
+    - core/jquery.once
+    - slick/slick
+general-scripts:
+  js:
+    js/varbase_hero_slider_media.scripts.js: { }
+  dependencies:
+    - core/drupal
+    - core/drupalSettings
+    - core/jquery
+    - core/jquery.once
+    - slick/slick
+vimeo.froogaloop:
+  js:
+    js/varbase_hero_slider_media.vimeo.froogaloop.js: { }
+  dependencies:
+    - core/drupal
+    - core/drupalSettings
+    - core/jquery
+    - core/jquery.once
+    - slick/slick
+
+youtube-player:
+  header: true
+  js:
+    js/player_api.js: { }
+  dependencies:
+    - core/drupal
+    - core/drupalSettings
+    - core/jquery
+    - core/jquery.once
+    - slick/slick

@@ -1,0 +1,13 @@
+name: Tour UI
+type: module
+description : 'Provides a UI to manage guided tours.'
+package: Development
+configure: admin/config/user-interface/tour
+core: 8.x
+dependencies:
+  - tour
+
+# Information added by drush on 2017-06-22
+version: '8.x-1.0-alpha1+3-dev'
+project: 'tour_ui'
+datestamp: 1498145087
