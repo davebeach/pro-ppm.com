@@ -5,6 +5,8 @@
     "license": "GPL-2.0+",
     "require": {
         "composer/installers": "^1.0.24",
+        "drupal/console": "~1.0",
+        "drush/drush": "^8.1",
         "wikimedia/composer-merge-plugin": "^1.4"
     },
     "replace": {
